@@ -16,11 +16,14 @@
   >
     <div class="flex text-2xl items-center font-extrabold">
       <div class="five-icon" />
-      <strong class="text-3xl">five</strong>
+      <!-- <strong class="text-3xl">five</strong> -->
     </div>
     <div class="flex space-x-2 items-center justify-around w-1/3 sm:hidden">
-      <button class="px-8 py-2">How it works</button>
-      <button class="bg-primary text-white px-8 py-2 rounded-md"
+      <button class="px-8 py-2 focus:outline-none hover:underline"
+        >How it works</button
+      >
+      <button
+        class="bg-primary text-white px-8 py-2 rounded-full focus:outline-none"
         >Launch app</button
       >
     </div>

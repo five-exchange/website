@@ -6,7 +6,9 @@
     <h3 class="font-extralight text-2xl">
       The new crypto loyalty point marketplace built on the Web 3.0
     </h3>
-    <button class="bg-primary text-white py-2 px-8 rounded-md mt-16 font-bold">
+    <button
+      class="bg-primary text-white py-4 px-8 rounded-full mt-16 focus:outline-none"
+    >
       Create your crypto
     </button>
   </div>
